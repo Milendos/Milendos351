@@ -1,0 +1,14 @@
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\bin\Debug\Massive28090.exe.config
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\bin\Debug\Massive28090.exe
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\bin\Debug\Massive28090.pdb
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\obj\Debug\Massive28090.csprojAssemblyReference.cache
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\obj\Debug\Massive28090.csproj.CoreCompileInputs.cache
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\obj\Debug\Massive28090.exe
+C:\Users\makievsky\source\repos\Massive28090\Massive28090\obj\Debug\Massive28090.pdb
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\bin\Debug\Massive28090.exe.config
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\bin\Debug\Massive28090.exe
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\bin\Debug\Massive28090.pdb
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\obj\Debug\Massive28090.csproj.AssemblyReference.cache
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\obj\Debug\Massive28090.csproj.CoreCompileInputs.cache
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\obj\Debug\Massive28090.exe
+C:\Users\слушатель\Desktop\Massive28090\Massive28090\obj\Debug\Massive28090.pdb
