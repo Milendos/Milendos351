@@ -11,7 +11,7 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             int choose = 3;
-            string name = null;
+            string name1 = null;
             int pro = 0;
             Console.WriteLine("Добро пожаловать на Олимпийские игры!");
 
